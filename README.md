@@ -7,6 +7,6 @@
 </div>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://cartoonpoet.github.io/)
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/cartoonpoet)
-[![Facebook Page Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebookpage&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/iuhomepage)
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/cartoonpoet)](https://www.facebook.com/cartoonpoet)
+[![My Facebook Page Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/iuhomepage)](https://www.facebook.com/iuhomepage)
 	
