@@ -37,7 +37,7 @@ since 2014. I have project experience using C, Java, Html/Css and JS languages. 
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white" />
 
 </div>
-
+<br>
 <div align=center>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cartoonpoet)](https://github.com/anuraghazra/github-readme-stats)
