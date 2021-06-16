@@ -20,8 +20,7 @@ My major is computer engineering :computer:.<br>
 since 2014. I have project experience using C, Java, Html/Css and JS languages. I am very interested in Web&App Full-Stack development.
 
 
-
-:pushpin: ​Tech Stack
+### :pushpin: ​Tech Stack<br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
 
 
