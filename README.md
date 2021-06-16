@@ -16,8 +16,8 @@
 </div>
 
 
-👋 Hello! My name is JunHo SON, I am a Junior developer
-My major is computer engineering :computer:.
+👋 Hello! My name is JunHo SON, I am a Junior developer<br>
+My major is computer engineering :computer:.<br>
 since 2014. I have project experience using C, Java, Html/Css and JS languages. I am very interested in Web&App Full-Stack development.
 
 
