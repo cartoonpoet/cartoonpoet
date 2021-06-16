@@ -15,7 +15,7 @@
 
 </div>
 
-👋 Hello! My name is JunHo SON, I am a Junior developer<br>
+#### 👋 Hello! My name is JunHo SON, I am a Junior developer<br>
 My major is computer engineering :computer:.<br>
 since 2014. I have project experience using C, Java, Html/Css and JS languages. I am very interested in Web&App Full-Stack development.
 
@@ -25,7 +25,10 @@ since 2014. I have project experience using C, Java, Html/Css and JS languages. 
 <br>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/NaverAPI-03C75A?style=flat-square&logo=Naver&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/KakaoAPI-FFCD00?style=flat-square&logo=Kakao&logoColor=white" />
 <br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white" />
+
 
 <div align=center>
 
