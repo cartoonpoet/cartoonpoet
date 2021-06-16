@@ -7,7 +7,7 @@
 ## Hi there 👋
 <div align=center>
 
-[![Naver Blog Badge](http://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/cartoonpoet)](https://blog.naver.com/cartoonpoet)
+[![Naver Blog Badge](http://img.shields.io/badge/Naver%20blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/cartoonpoet)](https://blog.naver.com/cartoonpoet)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://cartoonpoet.github.io/)](https://cartoonpoet.github.io/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/cartoonpoet)](https://www.facebook.com/cartoonpoet)
 [![My Facebook Page Badge](https://img.shields.io/badge/facebook%20page-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/iuhomepage)](https://www.facebook.com/iuhomepage)
