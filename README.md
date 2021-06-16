@@ -31,6 +31,8 @@ since 2014. I have project experience using C, Java, Html/Css and JS languages. 
 <br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" />
 <br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />
+<br>
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white" />
 
 
