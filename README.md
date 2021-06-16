@@ -8,6 +8,7 @@
 
 
 <div align=center>
+
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://cartoonpoet.github.io/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/cartoonpoet)](https://www.facebook.com/cartoonpoet)
 [![My Facebook Page Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/iuhomepage)](https://www.facebook.com/iuhomepage)
@@ -22,7 +23,7 @@ since 2014. I have project experience using C, Java, Html/Css and JS languages. 
 ### :pushpin: ​Tech Stack<br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white" />
 <br>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Naverd-03C75A?style=flat-square&logo=Naver&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/NaverAPI-03C75A?style=flat-square&logo=Naver&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/KakaoAPI-FFCD00?style=flat-square&logo=Kakao&logoColor=white" />
 
 <div align=center>
 
