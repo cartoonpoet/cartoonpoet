@@ -27,6 +27,8 @@ since 2014. I have project experience using C, Java, Html/Css and JS languages. 
 <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" />
 <br>
+<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=Apache%20Tomcat&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=XAMPP&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white" />
+<br>
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white" />
 
 
