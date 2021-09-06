@@ -45,7 +45,5 @@ since 2014. I have project experience using C, Java, Html/Css and JS languages. 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cartoonpoet)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
 </div>
 
