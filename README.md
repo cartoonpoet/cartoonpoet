@@ -39,9 +39,9 @@ since 2014. I have project experience using C, Java, Html/Css and JS languages. 
 <br>
 <div align=center>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cartoonpoet&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cartoonpoet&locale=kr)](https://github.com/cartoonpoet)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cartoonpoet&langs_count=10&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cartoonpoet&langs_count=10&locale=kr)](https://github.com/cartoonpoet)
 
 
 </div>
